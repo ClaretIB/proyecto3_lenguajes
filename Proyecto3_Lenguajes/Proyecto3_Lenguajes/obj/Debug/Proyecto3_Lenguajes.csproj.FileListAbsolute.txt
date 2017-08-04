@@ -1,0 +1,8 @@
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\bin\Proyecto3_Lenguajes.dll.config
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\bin\Proyecto3_Lenguajes.dll
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\bin\Proyecto3_Lenguajes.pdb
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\obj\Debug\Proyecto3_Lenguajes.csprojResolveAssemblyReference.cache
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\obj\Debug\Proyecto3_Lenguajes.dll
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\obj\Debug\Proyecto3_Lenguajes.pdb
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\bin\Proyecto3_LenguajesData.exe
+c:\users\claret\documents\visual studio 2015\Projects\Proyecto3_Lenguajes\Proyecto3_Lenguajes\bin\Proyecto3_LenguajesData.pdb
